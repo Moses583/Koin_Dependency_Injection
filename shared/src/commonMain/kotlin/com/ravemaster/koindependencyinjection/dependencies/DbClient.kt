@@ -1,0 +1,3 @@
+package com.ravemaster.koindependencyinjection.dependencies
+
+expect class DbClient
